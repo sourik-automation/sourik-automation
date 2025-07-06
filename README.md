@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I'm Sourik Ganguly
 
-<!--
-**sourik-automation/sourik-automation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **QA Engineer | 4+ Years of Experience**  
+🔍 Skilled in both **Manual & Automation Testing** with a focus on quality, reliability, and continuous improvement.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Core Competencies
+
+**🔧 Automation Testing**
+- Selenium WebDriver (Java), Playwright (TypeScript)
+- TestNG, Maven, Git, GitHub Actions
+- Page Object Model (POM), Test Reporting, CI/CD Pipelines, Azure DevOps
+
+**🧪 Manual Testing**
+- Functional, Regression, Smoke & UI Testing
+- Test Case Design, Defect Reporting, Test Planning
+- Cross-browser & Exploratory Testing
+- Tools: Excel, Azure DevOps, Browser DevTools
+
+**💻 Development & IDEs**
+- Java, TypeScript | VS Code
+
+---
+
+## 🚧 Projects In Progress
+
+📦 I'm actively building and organizing the following QA projects:
+
+- 🧩 Selenium automation for a sample e-commerce site  
+- 🧩 Playwright test suite for an HRM system  
+- 🧩 Manual testing documentation including test cases, bugs, and traceability matrix  
+
+All projects will be uploaded with structured code, proper documentation, and execution instructions.
+
+---
+
+## 📚 Currently Exploring
+- Postman for API Testing  
+- JMeter for Performance Testing 
+
+---
+
+## 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourlinkedinprofile)  https://www.linkedin.com/in/sourik-ganguly-/
+
+📧 Email: sourikganguly38@gmail.com
