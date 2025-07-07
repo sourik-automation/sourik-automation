@@ -19,7 +19,7 @@
 - Tools: Excel, Azure DevOps, Browser DevTools
 
 **💻 Development & IDEs**
-- Java, TypeScript | VS Code
+- Java, TypeScript | Eclipse, VS Code
 
 ---
 
